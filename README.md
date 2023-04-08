@@ -1,3 +1,3 @@
 # Hi there!
-**I'm studying web frontend develope.**<br>
+**I'm studying web frontend developement.**<br>
 
