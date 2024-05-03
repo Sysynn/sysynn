@@ -1,3 +1,3 @@
 # Hi there!
-**I'm studying web frontend developement.**<br>
+**I'm studying UX/UI design and swiftUI **<br>
 
