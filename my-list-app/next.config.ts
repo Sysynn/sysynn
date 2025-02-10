@@ -1,7 +1,8 @@
-import type { NextConfig } from "next";
+import { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
-  /* config options here */
-};
+  reactStrictMode: true,
+  output: 'standalone', // Vercel 최적화 설정
+}
 
-export default nextConfig;
+export default nextConfig
